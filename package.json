@@ -1,0 +1,25 @@
+{
+  "name": "wzy-blog",
+  "version": "1.0.0",
+  "description": "汪智勇的部落格",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john852517791/wzy-blog.git"
+  },
+  "author": "john",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john852517791/wzy-blog/issues"
+  },
+  "homepage": "https://github.com/john852517791/wzy-blog#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
